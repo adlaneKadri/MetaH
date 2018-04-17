@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BSO:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BSO_jar</output-path>
+    <root id="archive" name="BSO.jar">
+      <element id="module-output" name="BSO" />
+    </root>
+  </artifact>
+</component>
